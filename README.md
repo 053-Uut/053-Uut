@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/gambar1.png" width="70%">
+<img src="https://github.com/053-Uut/053-Uut-/blob/main/gambar1.png">
 
 ### 💙 Informatics Student | Aspiring Web Developer
 
