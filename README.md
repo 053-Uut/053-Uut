@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/053-Uut/053-Uut-/blob/main/gambar1.png">
+<img src="https://raw.githubusercontent.com/053-Uut/053-Uut-/main/gambar1.png" width="70%">
 
 ### 💙 Informatics Student | Aspiring Web Developer
 
